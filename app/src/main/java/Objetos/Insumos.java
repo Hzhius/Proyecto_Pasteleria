@@ -3,8 +3,8 @@ package Objetos;
 public class Insumos {
 
     private int id;             // estan ordenados por la misma posición ....
-    private String[] insumos = {"Torta mil hojas", "Torta de bizcocho ", "Torta trufa manjar", "Torta selva negra"};
-    private int[] precios = {25000, 12000, 32000, 35000};
+    private String[] insumos = {"Torta mil hojas", "Torta de bizcocho ", "Torta trufa manjar", "Torta selva negra","Torta de manjar"};
+    private int[] precios = {25000, 12000, 32000, 35000,4800};
     private int stock;
 
     public Insumos()
